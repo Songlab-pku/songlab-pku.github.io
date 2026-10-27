@@ -14,7 +14,7 @@ profile:
     <p>Peking University, Beijing, China</p>
 
 selected_papers: false
-social: true
+social: false
 
 announcements:
   enabled: true
